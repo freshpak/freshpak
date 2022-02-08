@@ -2,6 +2,7 @@
 
 - 👨‍💻 Hack Reactor grad
 - 📍 Based in SoCal
+- 😄 Thanks for stopping by!
 
 ### Languages & Tools
 
