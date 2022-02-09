@@ -1,8 +1,8 @@
 ## Hi there! I'm Edward Pak 👋
 
-- 💻 Hack Reactor grad
-- 📍 Based in SoCal
-- 😄 Motorsports Racing Enthusiast
+- 💻 Software Engineer
+- 🧬 Former Biochemist
+- 🏎 Motorsports Racing Enthusiast
 
 ### Languages & Tools
 
